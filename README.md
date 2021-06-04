@@ -1,2 +1,1 @@
-# BasicIntroduction
-Created with CodeSandbox
+# BasicIntroduction of who I am!
