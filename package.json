@@ -1,0 +1,22 @@
+{
+  "name": "particlejs-demo-with-typewriter-effect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1",
+    "particles.js": "2.0.0",
+    "typewriter-effect": "2.17.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
