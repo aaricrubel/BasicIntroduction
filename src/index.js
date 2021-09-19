@@ -12,7 +12,7 @@ typewriter
 	.deleteAll()
 	.typeString("I am Abhinav Mukherjee.")
 	.deleteAll()
-	.typeString("<strong>I'm trying to be a web developer!</strong>")
+	.typeString("<strong>I'm a problem solver trying my hands on community based products.</strong>")
 	.start();
 
 particlesJS("particles-js", {
